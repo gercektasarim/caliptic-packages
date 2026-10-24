@@ -1,0 +1,25 @@
+{
+  "packageID": "agro.vision.disease",
+  "version": "0.1.0",
+  "schemaVersion": 1,
+  "platform": "ios",
+  "minOS": "18.0",
+  "minDeviceProfile": "iphone16",
+  "modelFormat": "coreml",
+  "supportedCrops": [
+    "corn",
+    "pepper",
+    "potato",
+    "tomato",
+    "wheat"
+  ],
+  "dependencies": [],
+  "download": {
+    "sizeBytes": 509658,
+    "sha256": "b9987c36f857ac986117694f7fee5b49444bfd43692da01aa4ea90beba4decc4"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "value": "iYJI+MqObE33rK63Vc9qtZ1lFNyvYAtK4lMcQlccSsyatMJDaKbXW0ue5LzjshyZwWikI6QtLl8FqgFDYdg3DQ=="
+  }
+}

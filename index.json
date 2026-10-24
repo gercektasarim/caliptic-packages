@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "packageID": "agro.vision.disease",
+      "version": "0.1.0",
+      "platform": "ios",
+      "keyID": "caliptic-release-2026-10-r2",
+      "manifestURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.vision.disease/0.1.0/manifest.json",
+      "signatureURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.vision.disease/0.1.0/manifest.sig",
+      "artifactURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.vision.disease/0.1.0/artifact.mlmodel"
+    }
+  ]
+}
