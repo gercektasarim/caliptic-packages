@@ -11,6 +11,15 @@
       "artifactURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.knowledge/0.3.0/artifact.json"
     },
     {
+      "packageID": "agro.llm",
+      "version": "0.1.0",
+      "platform": "ios",
+      "keyID": "caliptic-release-2026-10-r2",
+      "manifestURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.llm/0.1.0/manifest.json",
+      "signatureURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.llm/0.1.0/manifest.sig",
+      "artifactURL": "https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-gguf/resolve/675cff42a74c774d6cb76f76d8eacb49b48c9b93/gemma-4-E2B_q4_0-it.gguf"
+    },
+    {
       "packageID": "agro.vision.disease",
       "version": "0.1.0",
       "platform": "ios",

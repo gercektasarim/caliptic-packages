@@ -1,0 +1,19 @@
+{
+  "packageID": "agro.llm",
+  "version": "0.1.0",
+  "schemaVersion": 1,
+  "platform": "ios",
+  "minOS": "18.0",
+  "minDeviceProfile": "iphone16",
+  "modelFormat": "gguf",
+  "supportedCrops": [],
+  "dependencies": [],
+  "download": {
+    "sizeBytes": 3349516256,
+    "sha256": "fa401b55b07ee70a54c6dae3903c783a6e65064312529ea57175cb5f8dec6634"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "value": "frPnrSkXBYi7cVMqIY/S0jT4WGC1K5ZMx88+AC8HK2C8q81UsEnsk4LVbAg354qCO9mJY8TP/U2J52F0+naFAA=="
+  }
+}
