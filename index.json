@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "packageID": "agro.knowledge",
+      "version": "0.1.0",
+      "platform": "ios",
+      "keyID": "caliptic-release-2026-10-r2",
+      "manifestURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.knowledge/0.1.0/manifest.json",
+      "signatureURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.knowledge/0.1.0/manifest.sig",
+      "artifactURL": "https://gercektasarim.github.io/caliptic-packages/packages/agro.knowledge/0.1.0/artifact.json"
+    },
+    {
       "packageID": "agro.vision.disease",
       "version": "0.1.0",
       "platform": "ios",
