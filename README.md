@@ -16,4 +16,4 @@ Current release key: `caliptic-release-2026-10-r2`.
 | Package | Version | Notes |
 |---|---|---|
 | agro.vision.disease | 0.1.0 | Pilot disease classifier (5 crops). |
-| agro.knowledge | 0.1.0 | 19 disease articles. AI-written summaries of the listed university and FAO sources, checked twice against those sources but **not reviewed by an agricultural expert**. The app labels them as such. No pesticide names or doses. |
+| agro.knowledge | 0.2.0 | 19 disease articles in English and Turkish (the Turkish text is an AI translation). AI-written summaries of the listed university and FAO sources, checked twice against those sources but **not reviewed by an agricultural expert**. The app labels them as such. No pesticide names or doses. |
