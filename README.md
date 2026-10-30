@@ -16,5 +16,5 @@ Current release key: `caliptic-release-2026-10-r2`.
 | Package | Version | Notes |
 |---|---|---|
 | agro.vision.disease | 0.1.0 | Pilot disease classifier (5 crops). |
-| agro.knowledge | 0.3.0 | 19 disease articles in English and Turkish (the Turkish text is an AI translation), with disease-name aliases for search. AI-written summaries of the listed university and FAO sources, checked twice against those sources but **not reviewed by an agricultural expert**. The app labels them as such. No pesticide names or doses. |
+| agro.knowledge | 0.4.0 | 19 disease articles in 22 languages (418 articles; every non-English text is an AI translation, not yet checked by native speakers), with disease-name aliases for search. AI-written summaries of the listed university and FAO sources, checked twice against those sources but **not reviewed by an agricultural expert**. The app labels them as such. No pesticide names or doses. |
 | agro.llm | 0.1.0 | Advisor language model: Google Gemma 4 E2B (QAT Q4_0 GGUF, Apache 2.0). Not re-hosted: the signed manifest pins the SHA-256 of Google's file at Hugging Face commit 675cff42; the app refuses any other bytes. iPhone 16 class (8 GB) only. |
